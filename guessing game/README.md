@@ -1,0 +1,2 @@
+This is a MIPS program that plays a simple game. The game chooses a [random] secret number between two non-negative variables min and max and requests guesses from the user, telling them whether their guess is too high or too low until the number is found. It allows the user to play multiple games until she indicates she is finished. The name of the program is guess, and its assembler file is guess.s
+There is a caveat of guess: It does its guessing in hexadecimal!
